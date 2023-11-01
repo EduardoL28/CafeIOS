@@ -1,0 +1,9 @@
+paleta = #2A160C, #846f5e, #b28e6c
+
+descrição-produtos = 
+
+copy:
+
+Um quarto de século de dedicação à arte do café. Na Cafeteria Elegante, a cada xícara, uma história é contada. Há 25 anos, começamos nossa jornada em busca da perfeição no mundo do café, e hoje, continuamos a elevar o padrão. Nossos grãos são cultivados com cuidado, torrados com precisão e transformados em obras-primas líquidas por nossos baristas habilidosos.
+
+25 anos de paixão, sabor e elegância. Bem-vindo à nossa Cafeteria Clássica, onde o tempo aperfeiçoou nossos grãos e nossa hospitalidade. Cada xícara é uma obra-prima, cada encontro uma lembrança. Junte-se a nós e saboreie a tradição, em cada gole.
